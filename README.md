@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AJ
-- 💻 I'm a Software Professional - I code, I deploy
+- 💻 I'm a Software Professional
 - 🛠 I code, I deploy and I fix things
 - 🎯 I work on Kubernetes and Cloud technologies
 - 📚 I’m currently learning Cloud and Application development
